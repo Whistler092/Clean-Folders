@@ -1,4 +1,3 @@
-```markdown
 # 🧹 Clean-Folders.ps1
 
 A PowerShell script to recursively find and remove build/dependency folders (`bin`, `obj`, `node_modules`, `packages`) from a specified path. Features real-time progress feedback, dry-run mode, folder ignore list, and confirmation prompts.
